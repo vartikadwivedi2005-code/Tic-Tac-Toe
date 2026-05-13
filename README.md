@@ -1,7 +1,3 @@
-Since you are building a collection of classic web games, a Tic Tac Toe README should highlight the logic behind the "Win Condition" and the UI design.
-
-Here is a professionally structured, aesthetic README for your Tic Tac Toe project.
-
 ⭕ Tic Tac Toe ❌
 The Ultimate Battle of X's and O's
 "Simple to learn, impossible to master."
